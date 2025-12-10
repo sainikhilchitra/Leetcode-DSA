@@ -1,25 +1,25 @@
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-        PriorityQueue<Integer> pq = new PriorityQueue<>((a,b)->b-a) ;
-        HashMap<Integer,Integer> hm = new HashMap<>() ;
-        int n = nums.length ;
-        int res[] = new int[n-k+1] ;
-        for(int i=0;i<k;i++){
-            pq.offer(nums[i]) ;
-        }
-        res[0] = pq.peek() ;
-        for(int i=k;i<n;i++){
-            pq.offer(nums[i]) ;
-            hm.put(nums[i-k],hm.getOrDefault(nums[i-k],0) + 1) ;
-            while(hm.containsKey(pq.peek())){
-                int ele = pq.poll() ;
-                hm.put(ele,hm.get(ele)-1) ;
-                if(hm.get(ele) == 0){
-                    hm.remove(ele) ;
-                }
+        Deque<Integer> q = new LinkedList<>() ;
+        int n = nums.length;
+        int arr[] = new int[n-k+1];
+        for(int i = 0 ; i < k ; i++ ){
+            while(!q.isEmpty() && nums[q.peekLast()]<=nums[i]){
+                q.pollLast();
             }
-            res[i-k+1] = pq.peek() ;
+            q.offerLast(i);
         }
-        return res ;
+        arr[0] = nums[q.peekFirst()];
+        for(int i = k ; i < n ; i++ ){
+            if(i-k == q.peekFirst()){
+                q.pollFirst();
+            }
+            while(!q.isEmpty() && nums[q.peekLast()] <= nums[i]){
+                q.pollLast();
+            }
+            q.offerLast(i);
+            arr[i-k+1] = nums[q.peekFirst()] ;
+        }
+        return arr;
     }
 }
