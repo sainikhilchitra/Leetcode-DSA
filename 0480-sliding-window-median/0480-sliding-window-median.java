@@ -28,14 +28,14 @@ class Solution {
             right.offer(left.poll()) ;
             rightSize++ ;
             leftSize-- ;
+            prune(left) ;
         }
         if(leftSize-rightSize < 0){
             left.offer(right.poll()) ;
             rightSize-- ;
             leftSize++ ;
+            prune(right) ;
         }
-        prune(left) ;
-        prune(right) ;
     }
 
     void remove(int x){
