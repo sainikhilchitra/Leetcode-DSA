@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0386-lexicographical-numbers](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0386-lexicographical-numbers) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -142,5 +143,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0386-lexicographical-numbers](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
