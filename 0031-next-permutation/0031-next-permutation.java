@@ -14,7 +14,9 @@ class Solution {
             }
         }
         if(idx == -1){
-            Arrays.sort(nums);
+            for(int i = 0 ; i < n / 2 ; i++){
+                swap(nums,i,n-1-i) ;
+            }
             return ;
         }
 
