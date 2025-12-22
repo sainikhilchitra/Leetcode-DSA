@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0031-next-permutation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0216-combination-sum-iii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
