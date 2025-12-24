@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0031-next-permutation) |
+| [0055-jump-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0322-coin-change) |
@@ -176,5 +178,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
