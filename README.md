@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
 ## Merge Sort
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0134-gas-station) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
