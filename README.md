@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0377-combination-sum-iv) |
 | [0518-coin-change-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0518-coin-change-ii) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Memoization
 |  |
 | ------- |
