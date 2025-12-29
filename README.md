@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0031-next-permutation) |
+| [0047-permutations-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0198-house-robber) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0216-combination-sum-iii) |
 ## Greedy
