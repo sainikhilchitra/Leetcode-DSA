@@ -15,9 +15,9 @@ class Solution {
     }
     public int lengthOfLIS(int[] nums) {
         int n = nums.length ;
-        int small[] = new int[n] ;
-        int idx = 0 ;
-        small[0] = nums[0] ;
+        int small[] = new int[n+1] ;
+        int idx = 1 ;
+        small[1] = nums[0] ;
 
         for(int i = 1 ; i < n ; i++){
             if(nums[i] > small[idx]){
@@ -29,6 +29,6 @@ class Solution {
             }
         }
 
-        return idx+1 ;
+        return idx ;
     }
 }
