@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0134-gas-station](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0221-maximal-square) |
@@ -215,9 +218,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0901-online-stock-span](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0901-online-stock-span](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
