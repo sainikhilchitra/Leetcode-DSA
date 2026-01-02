@@ -1,43 +1,24 @@
 class Solution {
-    int[] smallOnLeft(int arr[],int n){
-        int small[] = new int[n] ;
+    public int maxSum(int[] heights, int n) {
         Stack<Integer> stk = new Stack<>() ;
-        stk.push(-1) ;
+
+        long maxArea = 0 ;
         for(int i = 0 ; i < n ; i++){
-            while(!stk.isEmpty() && stk.peek() != -1 && arr[stk.peek()] >= arr[i]){
-                stk.pop() ;
+            while(!stk.isEmpty() && heights[i] <= heights[stk.peek()]){
+                int height = heights[stk.pop()] ;
+                int width = i - 1 - (stk.isEmpty() ? -1 : stk.peek()) ;
+                maxArea = Math.max(maxArea , height * width) ;
             }
-            small[i] = stk.peek() ;
             stk.push(i) ;
         }
-        return small ;
-    }
 
-    int[] smallOnRight(int arr[],int n){
-        int small[] = new int[n] ;
-        Stack<Integer> stk = new Stack<>() ;
-        stk.push(n) ;
-        for(int i = n-1 ; i >= 0 ; i--){
-            while(!stk.isEmpty() && stk.peek() != n && arr[stk.peek()] >= arr[i]){
-                stk.pop() ;
-            }
-            small[i] = stk.peek() ;
-            stk.push(i) ;
-        }
-        return small ;
-    }
-
-    int maxSum(int arr[],int n){
-        int max = 0 ;
-        int preSmall[] = smallOnLeft(arr,n) ;
-        int sufSmall[] = smallOnRight(arr,n) ;
-
-        for(int i = 0 ; i < n ; i++){
-            int width = sufSmall[i] - preSmall[i] - 1 ;
-            max = Math.max(max,width * arr[i]) ;
+        while(!stk.isEmpty()){
+            int height = heights[stk.pop()] ;
+            int width = n - 1 - (stk.isEmpty() ? -1 : stk.peek()) ;
+            maxArea = Math.max(maxArea , height * width) ;
         }
 
-        return max ;
+        return (int) maxArea ;
     }
     public int maximalRectangle(char[][] matrix) {
         int n = matrix.length ;
