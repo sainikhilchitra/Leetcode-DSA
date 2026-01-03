@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0386-lexicographical-numbers) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Search Tree
@@ -25,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Array
@@ -99,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -144,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0091-decode-ways](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0208-implement-trie-prefix-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0389-find-the-difference](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Bit Manipulation
