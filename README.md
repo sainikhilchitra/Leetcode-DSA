@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Memoization
 |  |
 | ------- |
