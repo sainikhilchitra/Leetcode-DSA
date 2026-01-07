@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0386-lexicographical-numbers) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Array
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0480-sliding-window-median](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0480-sliding-window-median) |
 | [0518-coin-change-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0518-coin-change-ii) |
+| [0695-max-area-of-island](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 | [0980-unique-paths-iii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0980-unique-paths-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 | [0980-unique-paths-iii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0980-unique-paths-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Trie
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph
 |  |
