@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0134-gas-station](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0134-gas-station) |
+| [0189-rotate-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0031-next-permutation) |
+| [0189-rotate-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Dynamic Programming
 |  |
