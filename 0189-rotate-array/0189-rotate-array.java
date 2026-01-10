@@ -1,14 +1,20 @@
 class Solution {
+    void twoPointer(int[] arr,int i,int j){
+        while( i < j){
+            int temp = arr[i] ;
+            arr[i] = arr[j] ;
+            arr[j] = temp ;
+            i++ ;
+            j-- ;
+        }
+    }
     public void rotate(int[] nums, int k) {
         int n = nums.length ;
-        
-        int arr[] = new int[n] ;
-        for(int i = 0 ; i < n ; i++){
-            arr[(i + k) % n] = nums[i] ;
-        }
-
-        for(int i = 0 ; i < n ; i++){
-            nums[i] = arr[i] ;
-        }
+        k = k % n ;
+        if(k == 0 || n == 1) return ;
+    
+        twoPointer(nums,0,n - 1) ;
+        twoPointer(nums,0,k - 1) ;
+        twoPointer(nums,k,n - 1) ;
     }
 }
