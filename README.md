@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0389-find-the-difference) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0091-decode-ways](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0091-decode-ways) |
+| [0127-word-ladder](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0389-find-the-difference](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0389-find-the-difference) |
