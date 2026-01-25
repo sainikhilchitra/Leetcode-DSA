@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Topological Sort
 |  |
 | ------- |
