@@ -1,11 +1,3 @@
-class Pair{
-    int i ;
-    int j ;
-    Pair(int i,int j){
-        this.i = i ; 
-        this.j = j ;
-    }
-}
 class Solution {
 
     boolean isBipartite(ArrayList<ArrayList<Integer>> graph,int src,int grp[],int curGrp){
