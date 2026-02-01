@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3804-number-of-centered-subarrays](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3804-number-of-centered-subarrays) |
 ## Divide and Conquer
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -374,5 +376,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3804-number-of-centered-subarrays](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3804-number-of-centered-subarrays) |
 <!---LeetCode Topics End-->
