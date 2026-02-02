@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0031-next-permutation) |
 | [0047-permutations-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0077-combinations) |
 | [0126-word-ladder-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0216-combination-sum-iii) |
