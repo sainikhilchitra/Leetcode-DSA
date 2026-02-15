@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0126-word-ladder-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0127-word-ladder) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0980-unique-paths-iii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0980-unique-paths-iii) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0189-rotate-array) |
@@ -430,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
