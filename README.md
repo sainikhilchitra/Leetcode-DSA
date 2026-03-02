@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0189-rotate-array) |
+| [0292-nim-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0292-nim-game) |
 | [0728-self-dividing-numbers](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Dynamic Programming
@@ -447,4 +448,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1920-build-array-from-permutation) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
