@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0877-stone-game) |
 | [0980-unique-paths-iii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0292-nim-game) |
 | [0728-self-dividing-numbers](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Dynamic Programming
 |  |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0877-stone-game) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -456,4 +459,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
