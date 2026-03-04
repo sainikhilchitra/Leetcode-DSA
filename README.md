@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1920-build-array-from-permutation) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Trie
 |  |
