@@ -18,12 +18,13 @@ class Solution {
                             break ;
                         }
                     }
-
-                    for(int k = 0 ; k < m ; k++){
-                        if(k == j) continue ;
-                        if(mat[i][k] == 1){
-                            isValid = false ;
-                            break ;
+                    if(isValid){
+                        for(int k = 0 ; k < m ; k++){
+                            if(k == j) continue ;
+                            if(mat[i][k] == 1){
+                                isValid = false ;
+                                break ;
+                            }
                         }
                     }
 
