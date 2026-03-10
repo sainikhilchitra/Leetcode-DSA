@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0728-self-dividing-numbers) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0258-add-digits) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1920-build-array-from-permutation) |
 ## Brainteaser
@@ -469,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0877-stone-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
