@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0695-max-area-of-island) |
+| [0724-find-pivot-index](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0877-stone-game) |
 | [0980-unique-paths-iii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0980-unique-paths-iii) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [3719-longest-balanced-subarray-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Simulation
 |  |
