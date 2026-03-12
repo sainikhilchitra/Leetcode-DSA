@@ -11,11 +11,12 @@ class Solution {
         }
         
         int count = 0 ;
+        HashMap<Integer,Integer> hm = new HashMap<>() ;
+
         for(int i = 0 ; i < n ; i++){
-            for(int j = i ; j < n ; j++){
-                int sum = prefix[j] - ((i == 0) ? 0 : prefix[i - 1]) ;
-                if(k == sum) count++ ;
-            }
+            if(prefix[i] == k) count++ ;
+            if(hm.containsKey(prefix[i] - k)) count += hm.get(prefix[i] - k) ;
+            hm.put(prefix[i],hm.getOrDefault(prefix[i],0) + 1) ;
         }
 
         return count ;
