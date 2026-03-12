@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0031-next-permutation) |
 | [0047-permutations-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
