@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0091-decode-ways) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0062-unique-paths) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0134-gas-station) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0050-powx-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Stack
