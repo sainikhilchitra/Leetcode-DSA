@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1143-longest-common-subsequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3713-longest-balanced-substring-i) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
