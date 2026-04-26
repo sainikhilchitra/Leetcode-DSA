@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0162-find-peak-element) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0126-word-ladder-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0130-surrounded-regions) |
 | [0785-is-graph-bipartite](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0886-possible-bipartition) |
