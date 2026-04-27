@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1683-invalid-tweets) |
+| [1873-calculate-special-bonus](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1873-calculate-special-bonus) |
 ## Binary Indexed Tree
 |  |
 | ------- |
