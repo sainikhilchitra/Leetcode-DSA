@@ -538,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0595-big-countries) |
+| [0619-biggest-single-number](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0619-biggest-single-number) |
 | [1148-article-views-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1148-article-views-i) |
 | [1393-capital-gainloss](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1393-capital-gainloss) |
 | [1683-invalid-tweets](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1683-invalid-tweets) |
