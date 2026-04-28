@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1148-article-views-i) |
+| [1393-capital-gainloss](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1393-capital-gainloss) |
 | [1683-invalid-tweets](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1683-invalid-tweets) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1757-recyclable-and-low-fat-products) |
