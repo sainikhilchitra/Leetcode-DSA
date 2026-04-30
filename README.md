@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0733-flood-fill) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [1200-minimum-absolute-difference](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0480-sliding-window-median) |
+| [0621-task-scheduler](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3713-longest-balanced-substring-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [3713-longest-balanced-substring-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Queue
 |  |
@@ -415,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0134-gas-station) |
+| [0621-task-scheduler](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1382-balance-a-binary-search-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
