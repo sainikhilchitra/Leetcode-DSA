@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0389-find-the-difference](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -431,12 +432,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
+| [0394-decode-string](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0394-decode-string) |
 | [0901-online-stock-span](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
