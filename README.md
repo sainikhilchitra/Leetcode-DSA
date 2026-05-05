@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0216-combination-sum-iii) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0507-perfect-number) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2427-number-of-common-factors) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3713-longest-balanced-substring-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3713-longest-balanced-substring-i) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0258-add-digits) |
 | [2427-number-of-common-factors](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2427-number-of-common-factors) |
 ## Database
