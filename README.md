@@ -577,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0619-biggest-single-number) |
 | [1045-customers-who-bought-all-products](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1045-customers-who-bought-all-products) |
 | [1148-article-views-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1393-capital-gainloss) |
 | [1683-invalid-tweets](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1683-invalid-tweets) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1741-find-total-time-spent-by-each-employee) |
