@@ -8,7 +8,6 @@ class Solution {
         for(int i = 0 ; i < n ; i++){
             if(nums[i] % 2 != 0) pre++ ;
             prefix[i] = pre ;
-            System.out.println(prefix[i]) ;
         }
 
         HashMap<Integer,Integer> hm = new HashMap<>() ;
