@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0507-perfect-number) |
 | [0650-2-keys-keyboard](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0728-self-dividing-numbers) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Stack
