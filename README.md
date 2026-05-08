@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0300-longest-increasing-subsequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1382-balance-a-binary-search-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0480-sliding-window-median](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0480-sliding-window-median) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0377-combination-sum-iv) |
+| [0410-split-array-largest-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0518-coin-change-ii) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0134-gas-station) |
+| [0410-split-array-largest-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1382-balance-a-binary-search-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -554,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
