@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0480-sliding-window-median](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0480-sliding-window-median) |
+| [0485-max-consecutive-ones](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
