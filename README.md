@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1920-build-array-from-permutation) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [1200-minimum-absolute-difference](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1200-minimum-absolute-difference) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1382-balance-a-binary-search-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Recursion
 |  |
