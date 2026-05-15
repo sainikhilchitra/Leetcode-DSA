@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0695-max-area-of-island) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0695-max-area-of-island) |
