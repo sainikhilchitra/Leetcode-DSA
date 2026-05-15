@@ -15,22 +15,36 @@ class Solution {
         return false ;
     }
     public int minSubArrayLen(int target, int[] nums) {
-        
+
         int n = nums.length ;
-        int low = 1, high = n,ans = 0 ;
+        int ans = Integer.MAX_VALUE, i = 0 ;
+        long sum = 0 ;
 
-        while(low <= high){
-            int mid = (low + high) / 2 ;
+        for(int j = 0 ; j < n ; j++){
+            sum += nums[j] ;
 
-            if(isValid(nums,n,target,mid)){
-                ans = mid ;
-                high = mid - 1 ;
-            }
-            else{
-                low = mid + 1 ;
+            while(sum >= target){
+                ans = Math.min(ans,j - i + 1) ;
+                sum -= nums[i++] ;
             }
         }
+        
+        return ans == Integer.MAX_VALUE ? 0 : ans ; 
+        // int n = nums.length ;
+        // int low = 1, high = n,ans = 0 ;
 
-        return ans ;
+        // while(low <= high){
+        //     int mid = (low + high) / 2 ;
+
+        //     if(isValid(nums,n,target,mid)){
+        //         ans = mid ;
+        //         high = mid - 1 ;
+        //     }
+        //     else{
+        //         low = mid + 1 ;
+        //     }
+        // }
+
+        // return ans ;
     }
 }
