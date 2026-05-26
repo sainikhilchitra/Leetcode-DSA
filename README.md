@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2784-check-if-array-is-good](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3713-longest-balanced-substring-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3804-number-of-centered-subarrays](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3804-number-of-centered-subarrays) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3713-longest-balanced-substring-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
