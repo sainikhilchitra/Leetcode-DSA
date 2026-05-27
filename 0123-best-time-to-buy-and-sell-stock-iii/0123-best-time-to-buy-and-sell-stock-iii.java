@@ -1,34 +1,30 @@
 class Solution {
+
+    int buySell(int prices[],int i,int buy,int transaction,Integer dp[][][]){
+        // base case
+
+        if(transaction == 2 || i == prices.length) return 0 ;
+        int profit = 0 ;
+
+        if(dp[i][buy][transaction] != null) return dp[i][buy][transaction] ;
+
+        if(buy == 1){
+             profit = Math.max(-prices[i] + buySell(prices,i + 1,0,transaction,dp),buySell(prices,i + 1,1,transaction,dp)) ;
+        }
+        else{
+            profit = Math.max(prices[i] + buySell(prices,i + 1,1,transaction + 1,dp),buySell(prices,i + 1,0,transaction,dp)) ;
+        }
+
+        dp[i][buy][transaction] = profit ;
+
+        return profit ;
+    }
+
     public int maxProfit(int[] prices) {
+        
         int n = prices.length ;
 
-        int suffix[] = new int[n] ;
-        
-        int mx = prices[n - 1], mpro = 0 ;
-        for(int i = n - 2 ; i >= 0 ; i--){
-            int cpro = mx - prices[i] ;
-            mpro = Math.max(mpro,cpro) ;
-            mx = Math.max(mx,prices[i]) ;
-            suffix[i] = mpro ;
-        }
-
-        mpro = 0 ;
-        int mn = prices[0], res = 0 ;
-
-        for(int i = 1 ; i < n ; i++){
-            int cpro = prices[i] - mn ;
-            mpro = Math.max(mpro,cpro) ;
-            mn = Math.min(mn,prices[i]) ;
-
-            if(i != n - 1){
-                res = Math.max(res,mpro + suffix[i + 1]) ;
-            }
-            else{
-                res = Math.max(res,mpro) ;
-            }
-        }
-
-        return res ;
-
+        Integer dp[][][] = new Integer[n][2][2] ;
+        return buySell(prices,0,1,0,dp) ;
     }
 }
