@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0935-knight-dialer](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0935-knight-dialer) |
 | [1143-longest-common-subsequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
