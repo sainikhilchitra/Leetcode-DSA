@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1572-matrix-diagonal-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0480-sliding-window-median) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 ## Monotonic Queue
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Memoization
 |  |
