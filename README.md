@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0962-maximum-width-ramp](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0962-maximum-width-ramp) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0480-sliding-window-median) |
+| [0567-permutation-in-string](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
