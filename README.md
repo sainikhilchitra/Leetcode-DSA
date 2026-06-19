@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1920-build-array-from-permutation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [3719-longest-balanced-subarray-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Simulation
 |  |
