@@ -3,14 +3,6 @@ class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int n1 = nums1.length, n2 = nums2.length ;
         if(n1 > n2) return findMedianSortedArrays(nums2,nums1) ;
-        if(n2 == 0){
-            if(n1 % 2 == 1) return nums1[n1 / 2] ;
-            return (nums1[n1/2 - 1] + nums1[n1/2]) / 2.0 ;
-        }
-        if(n1 == 0){
-            if(n2 % 2 == 1) return nums2[n2 / 2] ;
-            return (nums2[n2/2 - 1] + nums2[n2/2]) / 2.0 ;
-        }
         int len = n1 + n2 ;
         int pick = (len + 1) / 2 ;
 
