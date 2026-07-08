@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0137-single-number-ii) |
 | [0389-find-the-difference](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0389-find-the-difference) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0126-word-ladder-ii) |
