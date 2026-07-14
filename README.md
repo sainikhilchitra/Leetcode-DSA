@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1382-balance-a-binary-search-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
+| [2498-frog-jump-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2498-frog-jump-ii) |
 | [2560-house-robber-iv](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2560-house-robber-iv) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1920-build-array-from-permutation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2498-frog-jump-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2498-frog-jump-ii) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2560-house-robber-iv](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2560-house-robber-iv) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2498-frog-jump-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2498-frog-jump-ii) |
 | [2560-house-robber-iv](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2560-house-robber-iv) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
