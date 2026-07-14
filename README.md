@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0403-frog-jump](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0377-combination-sum-iv](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0494-target-sum) |
