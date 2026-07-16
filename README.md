@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3804-number-of-centered-subarrays](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3804-number-of-centered-subarrays) |
 | [3838-weighted-word-mapping](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -797,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1920-build-array-from-permutation) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
 |  |
 | ------- |
@@ -813,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0258-add-digits) |
 | [2427-number-of-common-factors](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
 | ------- |
