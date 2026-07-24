@@ -1,22 +1,20 @@
 class Solution {
-    HashMap<String,Boolean> hm = new HashMap<>() ;
-    boolean solve(String s1,String s2){
-        int n = s1.length() ;
-        if(n == 1){
-            return s1.charAt(0) == s2.charAt(0) ;
+    boolean solve(String s1,String s2,int idx1,int idx2,int len,Boolean dp[][][]){
+        if(len == 1){
+            return s1.charAt(idx1) == s2.charAt(idx2) ;
         }
-        String s = s1+'#'+s2 ;
-        if(hm.containsKey(s)) return hm.get(s) ;
-        boolean nonswap = false, swap = false ;
-        for(int i = 0 ; i < n - 1 ; i++){
-            nonswap = nonswap || solve(s1.substring(0,i + 1),s2.substring(0,i + 1)) && solve(s1.substring(i + 1,n),s2.substring(i + 1,n));
-            swap = swap || solve(s1.substring(0,i + 1),s2.substring(n - (i + 1),n)) && solve(s1.substring(i + 1,n),s2.substring(0,n - (i + 1)));
-            if(swap || nonswap) break ;
+        if(dp[idx1][idx2][len] != null) return dp[idx1][idx2][len] ;
+        dp[idx1][idx2][len] = false ;
+        boolean swap = false, nonswap = false ;
+        for(int i = 1 ; i < len ; i++){
+            nonswap = nonswap || (solve(s1,s2,idx1,idx2,i,dp) && solve(s1,s2,idx1 + i,idx2 + i,len - i,dp)) ;
+            swap = swap || (solve(s1,s2,idx1,idx2 + len - i,i,dp) && solve(s1,s2,idx1 + i,idx2,len - i,dp)) ;
         }
-        hm.put(s,nonswap || swap) ;
-        return hm.get(s) ;
+        dp[idx1][idx2][len] = swap || nonswap ;
+        return dp[idx1][idx2][len] ;
     }
     public boolean isScramble(String s1, String s2) {
-        return solve(s1,s2) ;
+        Boolean dp[][][] = new Boolean[s1.length() + 1][s1.length() + 1][s1.length() + 1] ;
+        return solve(s1,s2,0,0,s1.length(),dp) ;
     }
 }
