@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0038-count-and-say) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0045-jump-game-ii) |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0044-wildcard-matching) |
