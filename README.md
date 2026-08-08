@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Array
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1920-build-array-from-permutation) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2498-frog-jump-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2498-frog-jump-ii) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Trie
 |  |
 | ------- |
