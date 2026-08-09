@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1572-matrix-diagonal-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1642-furthest-building-you-can-reach) |
 ## Quickselect
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
@@ -763,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Union-Find
 |  |
@@ -783,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0886-possible-bipartition) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Topological Sort
@@ -911,4 +917,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0279-perfect-squares) |
+## 0-1 BFS
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
