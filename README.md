@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0827-making-a-large-island) |
+| [0841-keys-and-rooms](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0886-possible-bipartition) |
 | [0934-shortest-bridge](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0827-making-a-large-island) |
+| [0841-keys-and-rooms](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0886-possible-bipartition) |
 | [0934-shortest-bridge](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0934-shortest-bridge) |
@@ -800,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0886-possible-bipartition) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
