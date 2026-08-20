@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0547-number-of-provinces) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0542-01-matrix) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0399-evaluate-division](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0414-third-maximum-number) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -780,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -789,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0130-surrounded-regions) |
+| [0399-evaluate-division](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0399-evaluate-division) |
 | [0785-is-graph-bipartite](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0827-making-a-large-island) |
 | [0886-possible-bipartition](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0886-possible-bipartition) |
@@ -801,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0399-evaluate-division) |
 | [0785-is-graph-bipartite](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0802-find-eventual-safe-states) |
@@ -949,4 +956,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
