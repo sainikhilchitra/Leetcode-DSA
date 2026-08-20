@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1920-build-array-from-permutation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2050-parallel-courses-iii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2050-parallel-courses-iii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2498-frog-jump-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2498-frog-jump-ii) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2050-parallel-courses-iii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2050-parallel-courses-iii) |
 | [2560-house-robber-iv](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2560-house-robber-iv) |
 ## Memoization
 |  |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2050-parallel-courses-iii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2050-parallel-courses-iii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Topological Sort
@@ -833,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2050-parallel-courses-iii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2050-parallel-courses-iii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Enumeration
 |  |
@@ -976,5 +980,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [2050-parallel-courses-iii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2050-parallel-courses-iii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
