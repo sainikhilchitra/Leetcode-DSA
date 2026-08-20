@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0310-minimum-height-trees) |
 | [0386-lexicographical-numbers](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0463-island-perimeter) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0463-island-perimeter) |
@@ -810,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0399-evaluate-division) |
 | [0785-is-graph-bipartite](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -827,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
