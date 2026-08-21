@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0735-asteroid-collision) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
+| [0721-accounts-merge](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0721-accounts-merge) |
 | [1200-minimum-absolute-difference](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0721-accounts-merge) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1079-letter-tile-possibilities](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1079-letter-tile-possibilities) |
@@ -509,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0721-accounts-merge](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0721-accounts-merge) |
 | [0784-letter-case-permutation](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0784-letter-case-permutation) |
 | [1079-letter-tile-possibilities](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1079-letter-tile-possibilities) |
 | [1143-longest-common-subsequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
@@ -802,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0130-surrounded-regions) |
 | [0399-evaluate-division](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0399-evaluate-division) |
+| [0721-accounts-merge](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0827-making-a-large-island) |
 | [0886-possible-bipartition](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0886-possible-bipartition) |
