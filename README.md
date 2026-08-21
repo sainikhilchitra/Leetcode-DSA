@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0962-maximum-width-ramp) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0980-unique-paths-iii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0980-unique-paths-iii) |
+| [0990-satisfiability-of-equality-equations](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0721-accounts-merge) |
 | [0784-letter-case-permutation](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0784-letter-case-permutation) |
+| [0990-satisfiability-of-equality-equations](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1079-letter-tile-possibilities](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1079-letter-tile-possibilities) |
 | [1143-longest-common-subsequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0827-making-a-large-island) |
 | [0886-possible-bipartition](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0886-possible-bipartition) |
+| [0990-satisfiability-of-equality-equations](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -829,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0886-possible-bipartition) |
+| [0990-satisfiability-of-equality-equations](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
