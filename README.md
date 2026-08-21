@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Array
 |  |
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2045-second-minimum-time-to-reach-destination) |
 ## Union-Find
 |  |
 | ------- |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1514-path-with-maximum-probability](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2050-parallel-courses-iii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2050-parallel-courses-iii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2359-find-closest-node-to-given-two-nodes) |
@@ -985,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1514-path-with-maximum-probability) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2045-second-minimum-time-to-reach-destination) |
 ## Bitmask
 |  |
 | ------- |
@@ -1004,4 +1008,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2050-parallel-courses-iii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2050-parallel-courses-iii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+## K Shortest Path
+|  |
+| ------- |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2045-second-minimum-time-to-reach-destination) |
 <!---LeetCode Topics End-->
