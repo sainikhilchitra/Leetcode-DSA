@@ -25,7 +25,7 @@ class Solution {
             return a[2] - b[2] ;
         }) ;
         for(int i = 0 ; i < points.length ; i++){
-            for(int j = 0 ; j < points.length ; j++){
+            for(int j = 0 ; j < i ; j++){
                 if(i == j) continue ;
                 int dist = Math.abs(points[i][0] - points[j][0]) + Math.abs(points[i][1] - points[j][1]) ;
                 pq.offer(new int[]{i,j,dist}) ;
