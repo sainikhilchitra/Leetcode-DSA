@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0463-island-perimeter) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0221-maximal-square) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0542-01-matrix) |
@@ -668,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0357-count-numbers-with-unique-digits](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0377-combination-sum-iv](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0392-is-subsequence) |
@@ -700,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -834,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0399-evaluate-division) |
 | [0785-is-graph-bipartite](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -858,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2050-parallel-courses-iii) |
@@ -1009,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2050-parallel-courses-iii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2050-parallel-courses-iii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## K Shortest Path
