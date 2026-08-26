@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0217-contains-duplicate) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -662,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -705,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Backtracking
 |  |
@@ -1040,4 +1046,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
