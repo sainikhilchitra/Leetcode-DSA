@@ -1,17 +1,19 @@
 class Solution {
-    int count=0;
-    void combinations(int nums[],int n,int idx,int target,int sum){
-        if(idx==n){
-            if(sum==target) {
-                count++;
-            }
-            return;
+    int solve(int nums[],int target,int idx,int sum,int dp[][]){
+        if(idx == nums.length){
+            if(sum == target) return 1 ;
+            return 0 ;
         }
-        combinations(nums,n,idx+1,target,sum+nums[idx]) ;
-        combinations(nums,n,idx+1,target,sum-nums[idx]);
+        if(dp[idx][sum + 1000] != -1) return dp[idx][sum + 1000] ;
+        dp[idx][sum + 1000] = solve(nums,target,idx + 1,sum + nums[idx],dp) ;
+        dp[idx][sum + 1000] += solve(nums,target,idx + 1,sum - nums[idx],dp) ;
+        return dp[idx][sum + 1000] ;
     }
     public int findTargetSumWays(int[] nums, int target) {
-        combinations(nums,nums.length,0,target,0);
-        return count;
+        int dp[][] = new int[nums.length][2001] ;
+        for(int i = 0 ; i < nums.length ; i++){
+            Arrays.fill(dp[i],-1) ;
+        }
+        return solve(nums,target,0,0,dp) ;
     }
 }
