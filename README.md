@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0934-shortest-bridge](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0934-shortest-bridge) |
 | [0962-maximum-width-ramp](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0962-maximum-width-ramp) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0721-accounts-merge) |
+| [0881-boats-to-save-people](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
 | [1200-minimum-absolute-difference](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0962-maximum-width-ramp) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -752,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0881-boats-to-save-people](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1642-furthest-building-you-can-reach](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1642-furthest-building-you-can-reach) |
@@ -1064,4 +1068,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0146-lru-cache) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
