@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0794-valid-tic-tac-toe-state](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0794-valid-tic-tac-toe-state) |
 | [0827-making-a-large-island](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0827-making-a-large-island) |
+| [0860-lemonade-change](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1382-balance-a-binary-search-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
