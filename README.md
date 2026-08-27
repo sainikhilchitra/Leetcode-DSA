@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0217-contains-duplicate) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0146-lru-cache](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -1055,4 +1058,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0494-target-sum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
