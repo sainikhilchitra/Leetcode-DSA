@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2427-number-of-common-factors](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2050-parallel-courses-iii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Union Find
 |  |
 | ------- |
@@ -924,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [3719-longest-balanced-subarray-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
