@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1079-letter-tile-possibilities) |
 | [1143-longest-common-subsequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -825,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0962-maximum-width-ramp) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -1110,4 +1112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
