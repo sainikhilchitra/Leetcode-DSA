@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0392-is-subsequence) |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0494-target-sum) |
