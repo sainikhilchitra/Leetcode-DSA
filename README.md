@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
+| [1021-remove-outermost-parentheses](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1079-letter-tile-possibilities](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1079-letter-tile-possibilities) |
 | [1143-longest-common-subsequence](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0962-maximum-width-ramp](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0962-maximum-width-ramp) |
+| [1021-remove-outermost-parentheses](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1139,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
