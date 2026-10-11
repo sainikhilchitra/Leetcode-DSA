@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2560-house-robber-iv](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2560-house-robber-iv) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2784-check-if-array-is-good](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -955,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3713-longest-balanced-substring-i) |
