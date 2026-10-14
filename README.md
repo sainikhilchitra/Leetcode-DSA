@@ -686,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
@@ -823,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sainikhilchitra/Leetcode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
 |  |
